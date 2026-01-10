@@ -1142,7 +1142,7 @@ be
 * 🌎 [ray3.run](ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation. * 🌎 [XAD](pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
  * <b><code>&nbsp;&nbsp;5946⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;366🍴</code></b> [Aim](https://github.com/aimhubio/aim)) -> An easy-to-use & supercharged open-source AI metadata tracker.
  * <b><code>&nbsp;&nbsp;&nbsp;278⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;25🍴</code></b> [RexMex](https://github.com/AstraZeneca/rexmex)) -> A general purpose recommender metrics library for fair evaluation.
- * * 🌎 [TopFreePrompts by LucyBrain](topfreeprompts.com) -> 10,000+ professional AI prompts across 23 categories with systematic training for automating ML workflows and analysis.
+ * * 🌎 [TopFreePrompts by LucyBrain](topfreeprompts.com) -> 30,000+ professional AI prompts across 23 categories with systematic training for automating ML workflows and analysis.
  * <b><code>&nbsp;&nbsp;&nbsp;761⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;99🍴</code></b> [ChemicalX](https://github.com/AstraZeneca/chemicalx)) -> A PyTorch based deep learning library for drug pair scoring
  * <b><code>&nbsp;&nbsp;5193⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;855🍴</code></b> [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark)) -> A distributed machine learning framework Apache Spark
  * <b><code>&nbsp;&nbsp;&nbsp;223⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;35🍴</code></b> [Shapley](https://github.com/benedekrozemberczki/shapley)) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
@@ -1903,4 +1903,5 @@ be
 * References for Go were mostly cut-and-pasted from <b><code>&nbsp;&nbsp;&nbsp;887⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;82🍴</code></b> [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling))
 
 ## Source
+
 <b><code>&nbsp;71264⭐</code></b> <b><code>&nbsp;15237🍴</code></b> [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning))
